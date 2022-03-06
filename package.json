@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "adaptive-scale": "^1.0.0",
+    "squids": "^5.1.0"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^3.1.0",
+    "uglify-js": "^3.15.0"
+  }
+}
